@@ -12,7 +12,6 @@ Lower final score = better performance.
 
 📐 Scoring Rules Implemented
 Penalties (Added to Time)
-Action	Penalty
 Misses the bench completely OR passes to the wrong bench	+5 s
 Misses the target zone (0.6 × 0.3 m)	+3 s
 Handles the ball with hands	+3 s
